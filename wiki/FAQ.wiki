@@ -1,13 +1,7 @@
-#summary One-sentence summary of this page.
+*How many players are required to play android taboo game?*
 
-= Introduction =
+Please note that this is a social game you can play with your friends, it requires at least 4 playes for playing
 
-Add your content here.
+*How to play taboo game?*
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Taboo game theory in here: http://en.wikipedia.org/wiki/Taboo_(game)
