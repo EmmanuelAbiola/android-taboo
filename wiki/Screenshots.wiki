@@ -1,13 +1,4 @@
-#summary One-sentence summary of this page.
+Taboo game screenshots
 
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * Create teams and players
+[http://c1345842.cdn.cloudfiles.rackspacecloud.com/assets/screenshots/images/003/806/578/original.jpg]
