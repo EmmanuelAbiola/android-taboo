@@ -1,13 +1,16 @@
-#summary One-sentence summary of this page.
+Taboo - A social game to play with your friends in parties!
+The cool social party card game taboo is now available for you on android.
 
-= Introduction =
+You can play this game with your friends.
 
-Add your content here.
+No more the need to carry a deck of cards, writing score and keep track of the time.
 
+All is nicely build inside this game.
 
-= Details =
+You can read more about this cool game in here: http://en.wikipedia.org/wiki/Taboo_(game)
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+*** Please note that this is a social game you can play with your friends, it requires at least 4 playes for playing ***
+
+*** SMS permissions are only there to allow you to purchase the premium mode using your mobile carrier account. it is based on an sending and receiving a confirmation SMS. we don't use it for any other purpose ***
+
+This is the first version.
