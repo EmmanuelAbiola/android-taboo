@@ -1,6 +1,6 @@
 *Why does your application need to read sms messages?*
 
-If you choose you can purchase the full capabilities of taboo game with in app purchase not also with SMS (you will be asked for the method of purchase when you ask for it). This is the only time this permission is used.
+If you choose you can purchase the full capabilities of taboo game with in app purchase you have the option to do that with with SMS (you will be asked for the method of purchase when you ask for it). This is the only time this permission is used.
 
 *How many players are required to play android taboo game?*
 
